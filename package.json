@@ -1,0 +1,23 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelamponsah/hello-microverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelamponsah/hello-microverse/issues"
+  },
+  "homepage": "https://github.com/michaelamponsah/hello-microverse#readme",
+  "devDependencies": {
+    "stylelint": "^14.14.0",
+    "stylelint-config-standard": "^29.0.0"
+  }
+}
